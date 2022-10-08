@@ -36,21 +36,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['923091645255'] //ur owner number
+global.ownername = "Hamza Lashari" //ur owner name
+global.ytname = "YT: Hamza Editz" //ur yt chanel name
+global.socialm = "GitHub: hamzalasharib" //ur github or insta name
+global.location = "Pakistan" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.owner = ['923091645255']
+global.ownertag = '923091645255' //ur tag number
+global.botnumber = '923091645255' //Add your Bot Number For Log
+global.botname = 'Hamza Bot' //ur bot name
+global.ig = "https://www.youtube.com/channel/UChv6AOVyMp8wmXgWsO4tcrA" //your theme url which will be displayed on whatsapp
+global.myweb = "global.myweb = https://www.youtube.com/channel/UChv6AOVyMp8wmXgWsO4tcrA" //ur website to be displayed
+" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.linkz = 'global.myweb = https://www.youtube.com/channel/UChv6AOVyMp8wmXgWsO4tcrA" //ur website to be displayed
+'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
@@ -70,7 +72,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['923091645255'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
